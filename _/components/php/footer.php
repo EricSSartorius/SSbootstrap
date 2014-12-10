@@ -1,12 +1,18 @@
 <section class="container">
 	<footer class="row">
-		<nav class="col-lg-12">
-			<ul class="breadcrumb">
-				<li><a href="about.php">About the Roux Academy</a></li>
-				<li><a href="privacypolicy.php">Privacy Policy</a></li>
-				<li><a href="http://rouxacademy.com">Roux Academy Website</a></li>
-			</ul><!-- breadcrumb -->
-		</nav><!-- nav -->
+		<section class="footer-container">
+      <div class="content row">
+        <section class="main col col-lg-4">
+        <?php include "_/components/php/footer-logo.php"; ?> 
+        </section><!-- main -->
+        <section class="side1 col col-lg-4">
+          <?php include "_/components/php/footer-contact.php"; ?>
+        </section><!-- side1 -->
+         <section class="side2 col col-lg-4">
+          <?php include "_/components/php/footer-connect.php"; ?>
+        </section><!-- side2-->
+      </div><!-- content -->
+    </section><!-- footer-container -->
 		<p class="disclaimer">Copyright 2014. Seoul Seekers Crew. All Rights Reserved</p>
 	</footer><!-- footer -->
 </section><!-- container -->
