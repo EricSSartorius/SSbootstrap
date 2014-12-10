@@ -967,6 +967,87 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_\/components\/php\/article-about.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-about.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/article-blog.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-blog.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/article-events.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-events.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/article-intro.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-intro.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/article-memberlist.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-memberlist.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/article-registrationform.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-registrationform.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/aside-accordion.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-accordion.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/aside-lastyear.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-lastyear.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/aside-register.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-register.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/components\/php\/footer.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -981,6 +1062,33 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/php\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/snippet-carousel.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/snippet-carousel.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/snippet-memberphotogrid.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/snippet-memberphotogrid.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/snippet_member_Eric_Sartorius.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/snippet_member_Eric_Sartorius.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1061,11 +1169,405 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/artwork\/Barot_Bellingham_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 464995,
+		"inputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_01.jpg",
+		"outputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artwork\/Barot_Bellingham_01_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15123,
+		"inputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_01_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_01_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artwork\/Barot_Bellingham_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 511084,
+		"inputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_02.jpg",
+		"outputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artwork\/Barot_Bellingham_02_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19031,
+		"inputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_02_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_02_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artwork\/Barot_Bellingham_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 609528,
+		"inputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_03.jpg",
+		"outputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/artwork\/Barot_Bellingham_03_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13737,
+		"inputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_03_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/artwork\/Barot_Bellingham_03_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/acrilycs_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100189,
+		"inputAbbreviatedPath": "\/images\/carousel\/acrilycs_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/acrilycs_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/interior_decor_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169939,
+		"inputAbbreviatedPath": "\/images\/carousel\/interior_decor_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/interior_decor_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/jewelry_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215470,
+		"inputAbbreviatedPath": "\/images\/carousel\/jewelry_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/jewelry_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/letterpress_studio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233494,
+		"inputAbbreviatedPath": "\/images\/carousel\/letterpress_studio.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/letterpress_studio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/metal_engraving_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186347,
+		"inputAbbreviatedPath": "\/images\/carousel\/metal_engraving_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/metal_engraving_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/painting_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180310,
+		"inputAbbreviatedPath": "\/images\/carousel\/painting_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/painting_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/pencil_sketching_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130116,
+		"inputAbbreviatedPath": "\/images\/carousel\/pencil_sketching_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/pencil_sketching_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/pottery_finished.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 175452,
+		"inputAbbreviatedPath": "\/images\/carousel\/pottery_finished.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/pottery_finished.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/pottery_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88254,
+		"inputAbbreviatedPath": "\/images\/carousel\/pottery_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/pottery_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/quicksketch_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117461,
+		"inputAbbreviatedPath": "\/images\/carousel\/quicksketch_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/quicksketch_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/seattle_skyline.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 192231,
+		"inputAbbreviatedPath": "\/images\/carousel\/seattle_skyline.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/seattle_skyline.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/weaving_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296520,
+		"inputAbbreviatedPath": "\/images\/carousel\/weaving_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/weaving_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/carousel\/woodworking_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136211,
+		"inputAbbreviatedPath": "\/images\/carousel\/woodworking_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/carousel\/woodworking_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/members\/Eric_Sartorius.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 264169,
+		"inputAbbreviatedPath": "\/images\/members\/Eric_Sartorius.jpg",
+		"outputAbbreviatedPath": "\/images\/members\/Eric_Sartorius.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/members\/Eric_Sartorius_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12755,
+		"inputAbbreviatedPath": "\/images\/members\/Eric_Sartorius_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/members\/Eric_Sartorius_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/misc\/background_buildings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25269,
+		"inputAbbreviatedPath": "\/images\/misc\/background_buildings.png",
+		"outputAbbreviatedPath": "\/images\/misc\/background_buildings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/misc\/SSmainLogo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55194,
+		"inputAbbreviatedPath": "\/images\/misc\/SSmainLogo.png",
+		"outputAbbreviatedPath": "\/images\/misc\/SSmainLogo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/artist_on_table.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 323127,
+		"inputAbbreviatedPath": "\/images\/slides\/artist_on_table.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/artist_on_table.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/artist_on_table_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12803,
+		"inputAbbreviatedPath": "\/images\/slides\/artist_on_table_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/artist_on_table_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/at_the_museum.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273140,
+		"inputAbbreviatedPath": "\/images\/slides\/at_the_museum.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/at_the_museum.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/at_the_museum_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12107,
+		"inputAbbreviatedPath": "\/images\/slides\/at_the_museum_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/at_the_museum_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/charcoal_artist_painting.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 342749,
+		"inputAbbreviatedPath": "\/images\/slides\/charcoal_artist_painting.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/charcoal_artist_painting.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/charcoal_artist_painting_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13608,
+		"inputAbbreviatedPath": "\/images\/slides\/charcoal_artist_painting_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/charcoal_artist_painting_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/framing_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222506,
+		"inputAbbreviatedPath": "\/images\/slides\/framing_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/framing_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/framing_workshop_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11909,
+		"inputAbbreviatedPath": "\/images\/slides\/framing_workshop_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/framing_workshop_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/glassmaking_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 196656,
+		"inputAbbreviatedPath": "\/images\/slides\/glassmaking_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/glassmaking_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/glassmaking_workshop_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13907,
+		"inputAbbreviatedPath": "\/images\/slides\/glassmaking_workshop_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/glassmaking_workshop_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/glassworking_workshop.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161588,
+		"inputAbbreviatedPath": "\/images\/slides\/glassworking_workshop.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/glassworking_workshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slides\/glassworking_workshop_tn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10422,
+		"inputAbbreviatedPath": "\/images\/slides\/glassworking_workshop_tn.jpg",
+		"outputAbbreviatedPath": "\/images\/slides\/glassworking_workshop_tn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/members.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/members.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

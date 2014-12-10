@@ -13,9 +13,9 @@ $(function() {
 	//$('#artists #friday.accordion-body').addClass('in');
 
 	//add bootstrap classes to photos
-	//$('.abouttheartists img').addClass('img-circle');
-	//$('aside.photosfromlastyear img').addClass('img-thumbnail');
-	//$('.artistinfo .photogrid img').addClass('img-circle');
+	$('.aboutthemembers img').addClass('img-circle');
+	$('aside.photosfromlastyear img').addClass('img-thumbnail');
+	$('.memberinfo .photogrid img').addClass('img-circle');
 
 
 	//highlight the current nav

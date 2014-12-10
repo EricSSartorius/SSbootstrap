@@ -7,5 +7,6 @@
 				<li><a href="http://rouxacademy.com">Roux Academy Website</a></li>
 			</ul><!-- breadcrumb -->
 		</nav><!-- nav -->
+		<p class="disclaimer">Copyright 2014. Seoul Seekers Crew. All Rights Reserved</p>
 	</footer><!-- footer -->
 </section><!-- container -->

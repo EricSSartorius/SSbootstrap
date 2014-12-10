@@ -7,7 +7,7 @@
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
   </head>
-  <body id="register">
+  <body id="booking">
 
     <section class="container">
       <div class="content row">

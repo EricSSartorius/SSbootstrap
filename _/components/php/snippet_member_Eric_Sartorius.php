@@ -6,9 +6,9 @@
 		<p>Eric has just finished his final year at The Royal Academy of Painting and Sculpture, where he excelled in glass etching paintings and portraiture. Hailed as one of the most diverse artists of his generation, Barot is equally as skilled with watercolors as he is with oils, and is just as well-balanced in different subject areas. Barot's collection entitled "The Un-Collection" will adorn the walls of Gilbert Hall, depicting his range of skills and sensibilities - all of them, uniquely Barot, yet undeniably different.</p>
 		<section class="modalphotos photogrid">
 			<h3>Artwork</h3>
-			<img src="images/artwork/Eric_Sartorius_01_tn.jpg">
-			<img src="images/artwork/Eric_Sartorius_02_tn.jpg">
-			<img src="images/artwork/Eric_Sartorius_03_tn.jpg">
+			<img src="images/artwork/Barot_Bellingham_01_tn.jpg">
+			<img src="images/artwork/Barot_Bellingham_02_tn.jpg">
+			<img src="images/artwork/Barot_Bellingham_03_tn.jpg">
 		</section>
 	</div><!-- media body -->
 </article>
