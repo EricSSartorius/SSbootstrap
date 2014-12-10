@@ -1,6 +1,12 @@
+
 <div class="content row">
 	<div class="col-lg-12">
 		<header class="clearfix">
+			<section class="top-nav">
+				<ul class="nav navbar-nav">
+					<li><a href="login.php">Login</a></li>
+				</ul><!-- nav -->
+			</section><!-- top-nav -->
 			<section id="branding">
 				<a href="index.php"><img src="images/misc/SSmainLogo.png" alt="Seoul Seekers logo"></a> 
 			</section><!-- branding -->

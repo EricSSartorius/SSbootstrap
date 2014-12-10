@@ -1,16 +1,15 @@
 $(function() {
 
 	//activate schedule tabs
-	//var hash = window.location.hash;
-	//hash && $('ul.nav a[href="' + hash + '"]').tab('show');
+	var hash = window.location.hash;
+	hash && $('ul.nav a[href="' + hash + '"]').tab('show');
 
 	//controlling opening of accordions
-	//$('#monday.accordion-body').addClass('in');
-
-	//$('#artists #tuesday.accordion-body').addClass('in');
-	//$('#artists #wednesday.accordion-body').addClass('in');
-	//$('#artists #thursday.accordion-body').addClass('in');
-	//$('#artists #friday.accordion-body').addClass('in');
+	$('#monday.accordion-body').addClass('in');
+	$('#artists #tuesday.accordion-body').addClass('in');
+	$('#artists #wednesday.accordion-body').addClass('in');
+	$('#artists #thursday.accordion-body').addClass('in');
+	$('#artists #friday.accordion-body').addClass('in');
 
 	//add bootstrap classes to photos
 	$('.aboutthemembers img').addClass('img-circle');
