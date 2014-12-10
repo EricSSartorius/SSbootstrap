@@ -2,13 +2,14 @@
 	<div class="col-lg-12">
 		<header class="clearfix">
 			<section id="branding">
-		<!--		<a href="index.php"><img src="****" alt="Seoul Seekers logo"></a>   -->
+				<a href="index.php"><img src="images/misc/SSmainLogo.png" alt="Seoul Seekers logo"></a> 
 			</section><!-- branding -->
 
 			<section class="navbar">
 				<ul class="nav navbar-nav">
 					<li><a href="index.php">Home</a></li>
 					<li><a href="about.php">About</a></li>
+					<li><a href="members.php">Members</a></li>
 					<li><a href="blog.php">Blog</a></li>
 					<li><a href="events.php">Events</a></li>
 					<li><a href="booking.php">Booking</a></li>
