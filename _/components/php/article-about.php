@@ -1,5 +1,6 @@
 <article class="aboutthecrew">
 	<h2>SS about</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime dolorem possimus quam consequatur, dolor doloribus nam voluptatibus molestias suscipit facilis ab itaque sunt nobis harum laudantium porro dignissimos neque reprehenderit! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus illo cum voluptas, aliquam, dolorem obcaecati ipsum nemo magnam aut. Quidem quos in culpa, quam harum omnis nemo laborum aliquid voluptates.</p>
+	<p>Seoul Seekers, is a crew of Bboy's and Bgirl's who are expats in Seoul Korea, for various reasons...
+They have come together to be trained as a real professional Break'n crew, under the command of General Dyzee</p>
 	<p class="hidden-sm">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, consequuntur aspernatur non cupiditate in quidem maxime hic minima vitae quos maiores fuga atque reprehenderit obcaecati suscipit est unde nemo, eaque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis esse maxime veniam quod earum quaerat amet, repudiandae error. Voluptate natus reprehenderit, ipsum eligendi possimus illum saepe nihil ex animi soluta?</p>
 </article><!-- aboutthecrew -->
