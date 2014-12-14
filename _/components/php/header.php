@@ -8,8 +8,8 @@
 			<a href="index.php"><img src="images/misc/SSmainLogo.png" alt="Seoul Seekers logo"></a> 
 		</section><!-- branding -->
 
-		<section class="navbar">
-			<ul class="nav navbar-nav">
+		<nav class="navbar">
+			<ul class="nav navbar-nav ">
 				<li><a href="index.php">Home</a></li>
 				<li><a href="about.php">About</a></li>
 				<li><a href="members.php">Members</a></li>
@@ -17,7 +17,7 @@
 				<li><a href="events.php">Events</a></li>
 				<li><a href="booking.php">Booking</a></li>
 			</ul><!-- nav -->
-		</section><!-- navbar -->
+		</nav><!-- navbar -->
 
 	<!-- Modal -->
 	<section id="modal" class="modal fade">

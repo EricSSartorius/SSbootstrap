@@ -1,4 +1,4 @@
-<section class="container">
+<section class="bot-container">
 	<footer class="row">
 		<section class="footer-container">
       <div class="content row">
@@ -13,6 +13,6 @@
         </section><!-- side2-->
       </div><!-- content -->
     </section><!-- footer-container -->
+    </section><!-- bot-container -->
 		<p class="disclaimer">Copyright 2014. Seoul Seekers Crew. All Rights Reserved</p>
 	</footer><!-- footer -->
-</section><!-- container -->
