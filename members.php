@@ -9,9 +9,9 @@
   </head>
   <body id="members">
 
-    <section class="container">
-      <div class="content row">
+    <div class="content row">
           <?php include "_/components/php/header.php"; ?>
+    <section class="container">
         <section class="main col col-lg-8">
           <?php include "_/components/php/article-memberlist.php"; ?>
         </section><!-- main -->
@@ -20,11 +20,13 @@
           <?php include "_/components/php/aside-lastyear.php"; ?>
           <?php include "_/components/php/aside-accordion.php"; ?>
         </section><!-- sidebar -->
-      </div><!-- content -->
-    <?php include "_/components/php/footer.php"; ?>
-    </section><!-- container --> 
+    </div><!-- content -->
+    </section><!-- container -->
+          <?php include "_/components/php/footer.php"; ?>
 
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
 </html>
+
+

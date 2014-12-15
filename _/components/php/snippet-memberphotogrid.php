@@ -17,7 +17,7 @@
 	<a href="members.php#Lee_Chesley"><img data-toggle="tooltip" data-original-title="Lee Chesley" src="images/members/Lee_Chesley_tn.jpg" alt="Photo of Lee Chesley"></a>
 	<a href="members.php#Leroy_Brown"><img data-toggle="tooltip" data-original-title="Leroy Brown" src="images/members/Leroy_Brown_tn.jpg" alt="Photo of Leroy Brown"></a>
 	<a href="members.php#Lima_Limon"><img data-toggle="tooltip" data-original-title="Lima Limon" src="images/members/Lima_Limon_tn.jpg" alt="Photo of Lima Limon"></a>
-	<a href="members.php#Lonny_Hancock"><img data-toggle="tooltip" data-original-title="Lonny Hancock" src="images/members/Lonny Hancock_tn.jpg" alt="Photo of Lonny Hancock"></a>
+	<a href="members.php#Lonny_Hancock"><img data-toggle="tooltip" data-original-title="Lonny Hancock" src="images/members/Lonny_Hancock_tn.jpg" alt="Photo of Lonny Hancock"></a>
 	<a href="members.php#Mad_Tek"><img data-toggle="tooltip" data-original-title="Mad Tek" src="images/members/Mad_Tek_tn.jpg" alt="Photo of Mad Tek"></a>
 	<a href="members.php#Phil_Sequeira"><img data-toggle="tooltip" data-original-title="Phil Sequeira" src="images/members/Phil_Sequeira_tn.jpg" alt="Photo of Phil Sequeira"></a>
 	<a href="members.php#Richard_Kim"><img data-toggle="tooltip" data-original-title="Richard Kim" src="images/members/Richard_Kim_tn.jpg" alt="Photo of Richard Kim"></a>

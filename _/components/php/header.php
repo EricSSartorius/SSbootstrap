@@ -4,9 +4,12 @@
 			<li><a href="login.php">Member Login</a></li>
 		</ul><!-- nav -->
 	</section><!-- top-nav -->
-		<section id="branding">
+
+	<div id="branding" class="parallax" parallax-speed="2">
+		<h1 id="logo" class="text-center">
 			<a href="index.php"><img src="images/misc/SSmainLogo.png" alt="Seoul Seekers logo"></a> 
-		</section><!-- branding -->
+		</h1>
+	</div>
 
 		<nav class="navbar">
 			<ul class="nav navbar-nav ">

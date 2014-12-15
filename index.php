@@ -34,7 +34,7 @@
 
       <div class="content row">
           <?php include "_/components/php/header.php"; ?>
-          <?php include "_/components/php/snippet-carousel.php"; ?>
+          <img src="images/misc/SS-top.jpg" alt="Seoul Seekers Top">
       <section class="container">
         <section class="main col col-lg-8">
           <?php include "_/components/php/article-intro.php"; ?>
@@ -48,9 +48,7 @@
           <?php include "_/components/php/aside-accordion.php"; ?>
         </section><!-- sidebar -->
       </div><!-- content -->
-    
-    </section><!-- container -->
-
+      </section><!-- container -->
           <?php include "_/components/php/footer.php"; ?>
 
     <script src="_/js/bootstrap.js"></script>

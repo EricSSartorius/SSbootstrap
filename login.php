@@ -9,22 +9,23 @@
   </head>
   <body id="login">
 
-    <section class="container">
-      <div class="content row">
+    <div class="content row">
           <?php include "_/components/php/header.php"; ?>
+    <section class="container">
         <section class="main col col-lg-8">
-        <h2>LOGIN</h2>
           <?php include "_/components/php/article-registrationform.php"; ?>
         </section><!-- main -->
         <section class="sidebar col col-lg-4">
           <?php include "_/components/php/aside-register.php"; ?>
           <?php include "_/components/php/aside-accordion.php"; ?>
         </section><!-- sidebar -->
-      </div><!-- content -->
-    <?php include "_/components/php/footer.php"; ?>
+    </div><!-- content -->
     </section><!-- container -->
+          <?php include "_/components/php/footer.php"; ?>
 
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
 </html>
+
+
