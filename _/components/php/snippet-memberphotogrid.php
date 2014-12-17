@@ -10,7 +10,7 @@
 	<a href="members.php#Ho_Oshi"><img data-toggle="tooltip" data-original-title="Ho Oshi" src="images/members/Ho_Oshi_tn.jpg" alt="Photo of Ho Oshi"></a>
 	<a href="members.php#Jamal_Mixture"><img data-toggle="tooltip" data-original-title="Jamal Mixture" src="images/members/Jamal_Mixture_tn.jpg" alt="Photo of Jamal Mixture"></a>
 	<a href="members.php#Jayce_Harris"><img data-toggle="tooltip" data-original-title="Jayce Harris" src="images/members/Jayce_Harris_tn.jpg" alt="Photo of Jayce Harris"></a>
-	<a href="members.php#Jeric_Quiliza"><img data-toggle="tooltip" data-original-title="Jeric Quiliza" src="images/members/Jeric Quiliza_tn.jpg" alt="Photo of Jeric Quiliza"></a>
+	<a href="members.php#Jeric_Quiliza"><img data-toggle="tooltip" data-original-title="Jeric Quiliza" src="images/members/Jeric_Quiliza_tn.jpg" alt="Photo of Jeric Quiliza"></a>
 	<a href="members.php#Jyrell_Barrientos"><img data-toggle="tooltip" data-original-title="Jyrell Barrientos" src="images/members/Jyrell_Barrientos_tn.jpg" alt="Photo of Jyrell Barrientos"></a>
 	<a href="members.php#Karl_Alba"><img data-toggle="tooltip" data-original-title="Karl Alba" src="images/members/Karl_Alba_tn.jpg" alt="Photo of Karl Alba"></a>
 	<a href="members.php#Larne_Pedro"><img data-toggle="tooltip" data-original-title="Larne Pedro" src="images/members/Larne_Pedro_tn.jpg" alt="Photo of Larne Pedro"></a>

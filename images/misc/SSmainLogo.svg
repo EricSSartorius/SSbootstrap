@@ -1,20 +1,9 @@
-<header class="clearfix">
-
-	<section class="top-nav">
-		<ul>
-			<li><a href="login.php">MEMBER LOGIN</a></li>
-		</ul><!-- nav -->
-	</section><!-- top-nav -->
-
-	<div id="branding" class="parallax" parallax-speed="2">
-		<h1 id="logo" class="text-center">
-			<a href="index.php">
-
-<!-- SVG LOGO -->
-
-
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="424px" height="244px" viewBox="0 0 424 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.1 (9977) - http://www.bohemiancoding.com/sketch -->
+    <title>Top Logo + Top City</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-483.000000, -59.000000)">
             <g id="Header" sketch:type="MSLayerGroup" transform="translate(2.000000, 59.000000)">
@@ -64,32 +53,3 @@
         </g>
     </g>
 </svg>
-
-<!-- SVG LOGO -->
-
-
-			</a> 
-		</h1>
-	</div>
-
-		<nav class="navbar">
-			<ul class="nav navbar-nav" role="navigation">
-				<li><a href="index.php">HOME</a></li>
-				<li><a href="about.php">ABOUT</a></li>
-				<li><a href="members.php">MEMBERS</a></li>
-				<li><a href="blog.php">BLOG</a></li>
-				<li><a href="events.php">EVENTS</a></li>
-				<li><a href="booking.php">BOOKING</a></li>
-			</ul><!-- nav -->
-		</nav><!-- navbar -->
-
-	<!-- Modal -->
-	<section id="modal" class="modal fade">
-		<div class="modal-body">
-			<img id="modalimage" src="" alt="Modal Photo">
-		</div><!-- modal-body -->
-	</section><!-- modal -->
-</header><!-- header -->
-
-
-

@@ -18,12 +18,12 @@ $(function() {
 
 
 	//highlight the current nav
-	$("#home a:contains('Home')").parent().addClass('active');
-	$("#about a:contains('About')").parent().addClass('active');
-	$("#members a:contains('Members')").parent().addClass('active');
-	$("#blog a:contains('Blog')").parent().addClass('active');
-	$("#events a:contains('Events')").parent().addClass('active');
-	$("#booking a:contains('Booking')").parent().addClass('active');
+	$("#home a:contains('HOME')").parent().addClass('active');
+	$("#about a:contains('ABOUT')").parent().addClass('active');
+	$("#members a:contains('MEMBERS')").parent().addClass('active');
+	$("#blog a:contains('BLOG')").parent().addClass('active');
+	$("#events a:contains('EVENTS')").parent().addClass('active');
+	$("#booking a:contains('BOOKING')").parent().addClass('active');
 
 
 	//make menus drop automatically

@@ -2,21 +2,22 @@
 	<h2>Lonny</h2>
 	<img class="pull-left img-rounded" src="images/members/Lonny_Hancock_tn.jpg" alt="Photo of Lonny Hancock">
 	<div class="media-body">
-		<p>Real Name: </p>
-		<p>Birth Day: </p>
-		<p>Gender: </p>
-		<p>Ethnicity: </p>
-		<p>Nationality: </p>
+		<p>Real Name: Lonny Hancock</p>
+		<p>Birth Day: 18May1985</p>
+		<p>Gender: Male</p>
+		<p>Ethnicity: Japanese/white</p>
+		<p>Nationality: USA</p>
 		<p> </p>
-		<p>Height: </p>
-		<p>Weight: </p>
+		<p>Height: 5'8"
+</p>
+		<p>Weight: 175lbs</p>
 		<p>Shirt: </p>
 		<p>Pants: </p>
 		<p>Shoes: </p>
 		<p> 
-		<p>Nickname / Stagename: </p>
-		<p>Style: </p>
-		<p>Signature moves styles: </p>
+		<p>Nickname / Stagename: Lontizzle/Lonewolf</p>
+		<p>Style: a lil of everything/vanilla bboy</p>
+		<p>Signature moves styles: spinning stuff style</p>
 		<p>Commercial Work:</p>
 		<p></p> 
 		<p>Video links: </p>
@@ -28,3 +29,10 @@
 	</section>
 	</div><!-- media body -->
 </article>
+
+
+
+
+
+
+

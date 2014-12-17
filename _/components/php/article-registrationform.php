@@ -1,6 +1,6 @@
 <article class="registrationform">
-	<h2>Registration form</h2>
-	<p>We're not currently taking registrations for the Roux Academy Conference, but if you want to be placed into our mailing list for more information, please complete the form below.</p>
+	<h2>Booking</h2>
+	<p>The Seoul Seekers can be booked for performances, TV shows, and modeling gigs. For crew or individual member booking please complete the form below.</p>
 
 	<form class="registration form-horizontal" action="#">
 
@@ -57,7 +57,7 @@
 				</section><!-- row -->
 			
 				<section class="row">
-		  	<label class="col col-lg-4 control-label" for="reference">How did you hear about the Roux Academy Conference?</label>
+		  	<label class="col col-lg-4 control-label" for="reference">How did you hear about the Seoul Seekers?</label>
 					<div class="controls col col-lg-8">
 						<select   name="reference" id="reference">
 							<option>Choose...</option>
