@@ -14,7 +14,7 @@
 
 
 
-<svg width="424px" height="244px" viewBox="0 0 424 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg class="top-logo" width="212px" height="122px" viewBox="0 0 424 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-483.000000, -59.000000)">
             <g id="Header" sketch:type="MSLayerGroup" transform="translate(2.000000, 59.000000)">

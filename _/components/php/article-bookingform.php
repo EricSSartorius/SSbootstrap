@@ -1,4 +1,4 @@
-<article class="registrationform">
+<article class="bookingform">
 	<h2>Booking</h2>
 	<p>The Seoul Seekers can be booked for performances, TV shows, and modeling gigs. For crew or individual member booking please complete the form below.</p>
 
