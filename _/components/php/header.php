@@ -1,4 +1,4 @@
-<header class="clearfix">
+<header class="clearfix header">
 
 	<section class="top-nav">
 		<ul>
