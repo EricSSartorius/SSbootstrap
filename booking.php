@@ -35,7 +35,7 @@
           <?php include "_/components/php/header.php"; ?>
       <section class="container">
         <section class="main col col-lg-8">
-          <?php include "_/components/php/article-booking.php"; ?>
+          <?php include "_/components/php/article-bookingform.php"; ?>
         </section><!-- main -->
         <section class="sidebar col col-lg-4">
           <?php include "_/components/php/aside-accordion.php"; ?>

@@ -985,20 +985,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_\/components\/php\/article-blog.php": {
+	"\/_\/components\/php\/article-bookingform.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/components\/php\/article-blog.php",
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-bookingform.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_\/components\/php\/article-events.php": {
+	"\/_\/components\/php\/article-gallery.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/components\/php\/article-events.php",
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-gallery.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1012,6 +1012,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_\/components\/php\/article-login.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-login.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_\/components\/php\/article-memberlist.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1021,11 +1030,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_\/components\/php\/article-registrationform.php": {
+	"\/_\/components\/php\/article-pastevents.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/components\/php\/article-registrationform.php",
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-pastevents.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_\/components\/php\/article-upcomingevents.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_\/components\/php\/article-upcomingevents.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1048,20 +1066,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_\/components\/php\/aside-lastyear.php": {
+	"\/_\/components\/php\/aside-booking.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/components\/php\/aside-lastyear.php",
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-booking.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_\/components\/php\/aside-register.php": {
+	"\/_\/components\/php\/aside-pastevents.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/components\/php\/aside-register.php",
+		"inputAbbreviatedPath": "\/_\/components\/php\/aside-pastevents.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1907,15 +1925,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/blog.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/blog.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/booking.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1930,6 +1939,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/events.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/gallery.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gallery.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2759,6 +2777,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/misc\/Desktop HD.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.12595e+06,
+		"inputAbbreviatedPath": "\/images\/misc\/Desktop HD.png",
+		"outputAbbreviatedPath": "\/images\/misc\/Desktop HD.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/misc\/Desktop HD2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.10604e+06,
+		"inputAbbreviatedPath": "\/images\/misc\/Desktop HD2.png",
+		"outputAbbreviatedPath": "\/images\/misc\/Desktop HD2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/misc\/SS-top.jpg": {
 		"fileType": 16384,
 		"ignore": 1,
@@ -2766,28 +2806,6 @@
 		"initialSize": 524824,
 		"inputAbbreviatedPath": "\/images\/misc\/SS-top.jpg",
 		"outputAbbreviatedPath": "\/images\/misc\/SS-top.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/misc\/SSbotLogo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 12810,
-		"inputAbbreviatedPath": "\/images\/misc\/SSbotLogo.png",
-		"outputAbbreviatedPath": "\/images\/misc\/SSbotLogo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/misc\/SSmainLogo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 55194,
-		"inputAbbreviatedPath": "\/images\/misc\/SSmainLogo.png",
-		"outputAbbreviatedPath": "\/images\/misc\/SSmainLogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

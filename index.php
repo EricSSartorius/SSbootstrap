@@ -31,20 +31,56 @@
   </head>
   <body id="home">
 
-
       <div class="content row">
           <?php include "_/components/php/header.php"; ?>
           <img src="images/misc/SS-top.jpg" alt="Seoul Seekers Top">
-      <section class="container">
-        <section class="main col col-lg-8">
-          <?php include "_/components/php/article-intro.php"; ?>
-        </section><!-- main -->
-        <section class="sidebar col col-lg-4">
+    
+
+<section id="intro" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                  <?php include "_/components/php/article-intro.php"; ?>
+                </div>
+            </div>
+        </div>
+</section>             
+
+<section class="bg-black">
+  <div class="container">
+   <div class="main col col-lg-8">
+          
+          <img src="images/misc/SS.jpg" alt="Seoul Seekers Top">
+        </div><!-- main -->
+        <div class="sidebar col col-lg-4">
           <?php include "_/components/php/aside-booking.php"; ?>
           <?php include "_/components/php/aside-members.php"; ?>
           <?php include "_/components/php/aside-accordion.php"; ?>
-        </section><!-- sidebar -->
-      </div><!-- content -->
+        </div><!-- sidebar -->
+        </div>
+</section>
+
+ 
+
+
+
+<section class="bg-white">
+  <div class="container">
+   <div class="main col col-lg-8">
+   <?php include "_/components/php/article-intro.php"; ?>
+        </div><!-- main -->
+        <div class="sidebar col col-lg-4">
+          <?php include "_/components/php/aside-booking.php"; ?>
+          <?php include "_/components/php/aside-members.php"; ?>
+          <?php include "_/components/php/aside-accordion.php"; ?>
+        </div><!-- sidebar -->
+        </div>
+</section>
+
+
+
+
+
       </section><!-- container -->
           <?php include "_/components/php/footer.php"; ?>
 
