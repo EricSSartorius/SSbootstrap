@@ -140,7 +140,6 @@
 				<li><a href="about.php">ABOUT</a></li>
 				<li><a href="members.php">MEMBERS</a></li>
 				<li><a href="gallery.php">GALLERY</a></li>
-				<li><a href="events.php">EVENTS</a></li>
 				<li><a href="booking.php">BOOKING</a></li>
 			</ul><!-- nav -->
 		</nav><!-- navbar -->

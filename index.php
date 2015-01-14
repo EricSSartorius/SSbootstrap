@@ -34,7 +34,6 @@
       <div class="content row">
           <?php include "_/components/php/header.php"; ?>
           <img src="images/misc/SS-top.jpg" alt="Seoul Seekers Top">
-    
 
 <section id="intro" class="bg-light-gray">
         <div class="container">
@@ -53,37 +52,24 @@
           <img src="images/misc/SS.jpg" alt="Seoul Seekers Top">
         </div><!-- main -->
         <div class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-booking.php"; ?>
-          <?php include "_/components/php/aside-members.php"; ?>
-          <?php include "_/components/php/aside-accordion.php"; ?>
+          <?php include "_/components/php/aside-aboutthemembers.php"; ?>
         </div><!-- sidebar -->
         </div>
 </section>
-
- 
-
-
 
 <section class="bg-white">
   <div class="container">
    <div class="main col col-lg-8">
-   <?php include "_/components/php/article-intro.php"; ?>
+   <?php include "_/components/php/article-pastevents.php"; ?>
         </div><!-- main -->
         <div class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-booking.php"; ?>
-          <?php include "_/components/php/aside-members.php"; ?>
-          <?php include "_/components/php/aside-accordion.php"; ?>
+          <?php include "_/components/php/aside-booking.php"; ?>         
         </div><!-- sidebar -->
         </div>
 </section>
 
-
-
-
-
       </section><!-- container -->
           <?php include "_/components/php/footer.php"; ?>
-
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>

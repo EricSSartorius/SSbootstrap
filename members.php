@@ -40,8 +40,6 @@
         </section><!-- main -->
         <section class="sidebar col col-lg-4">
           <?php include "_/components/php/aside-booking.php"; ?>
-          <?php include "_/components/php/aside-pastevents.php"; ?>
-          <?php include "_/components/php/aside-accordion.php"; ?>
         </section><!-- sidebar -->
     </div><!-- content -->
     </section><!-- container -->
