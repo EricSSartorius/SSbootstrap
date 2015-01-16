@@ -28,29 +28,40 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     
-  </head>
-  <body id="blog">
 
-   <div class="content row">
+
+</head>
+  <body id="gallery">
+
+      <div class="content row">
           <?php include "_/components/php/header.php"; ?>
-      <section class="container">
-        <section class="main col col-lg-8">
-          <?php include "_/components/php/article-gallery.php"; ?>
-        </section><!-- main -->
-        <section class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-booking.php"; ?>
-          <?php include "_/components/php/aside-pastevents.php"; ?>
-          <?php include "_/components/php/aside-aboutthemembers.php"; ?>
-          <?php include "_/components/php/aside-accordion.php"; ?>
-      </section><!-- sidebar -->
-    </div><!-- content -->
-    </section><!-- container -->
-          <?php include "_/components/php/footer.php"; ?>
+        
 
+<section id="intro" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                   <?php include "_/components/php/article-gallery.php"; ?>
+                </div>
+            </div>
+        </div>
+</section>             
+
+
+
+<section class="bg-white">
+  <div class="container">
+   <div class="main col col-lg-12">
+    <?php include "_/components/php/article-gallery.php"; ?> 
+        </div><!-- main -->
+        </div>
+</section>
+
+          <?php include "_/components/php/footer.php"; ?>
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
-</html>
+  </html>
 
 
  
