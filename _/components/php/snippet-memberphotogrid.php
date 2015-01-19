@@ -1,4 +1,4 @@
-<div class="component photogrid clearfix">
+<div class="component modalphotos photogrid clearfix">
 	<a href="members.php#Andrew_Kim"><img data-toggle="tooltip" data-original-title="Andrew Kim" src="images/members/Andrew_Kim_tn.jpg" alt="Photo of Andrew Kim"></a>
 	<a href="members.php#Austin_Vinas"><img data-toggle="tooltip" data-original-title="Austin Vinas" src="images/members/Austin_Vinas_tn.jpg" alt="Photo of Austin Vinas"></a>
 	<a href="members.php#Ben_Coz"><img data-toggle="tooltip" data-original-title="Ben Coz" src="images/members/Ben_Coz_tn.jpg" alt="Photo of Ben Coz"></a>

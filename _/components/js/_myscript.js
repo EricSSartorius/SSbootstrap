@@ -21,7 +21,7 @@ $(function() {
 	$("#home a:contains('HOME')").parent().addClass('active');
 	$("#about a:contains('ABOUT')").parent().addClass('active');
 	$("#members a:contains('MEMBERS')").parent().addClass('active');
-	$("#blog a:contains('GALLERY')").parent().addClass('active');
+	$("#gallery a:contains('GALLERY')").parent().addClass('active');
 	//$("#events a:contains('EVENTS')").parent().addClass('active');
 	$("#booking a:contains('BOOKING')").parent().addClass('active');
 

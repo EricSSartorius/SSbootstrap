@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Seoul Seekers Crew -- Blog</title>
+    <title>Seoul Seekers Crew -- Gallery</title>
 
     <link href="_/css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
@@ -52,7 +52,7 @@
 <section class="bg-white">
   <div class="container">
    <div class="main col col-lg-12">
-    <?php include "_/components/php/article-gallery.php"; ?> 
+    <?php include "_/components/php/article-gallery2.php"; ?> 
         </div><!-- main -->
         </div>
 </section>
