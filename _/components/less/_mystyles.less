@@ -18,7 +18,7 @@ p{
 	padding: 0 2%;
 }
 
-h2{
+h2, h3{
 	color: @very-light-grey;
 }
 
@@ -28,14 +28,14 @@ h2{
 
 
 
-//PHOTOS
+//PHOTO GRID
 .photogrid img {
-	width: 140px;
-	margin: 10px;
+	width: 96px;
+	margin: 5px;
 	cursor: pointer;
 
 	@media (max-width: 990px) {
-		width: 140px;
+		width: 96px;
 	}
 }
 
@@ -45,20 +45,16 @@ h2{
 		margin: 0 5px 5px 0;
 		cursor: pointer;
 	}
-
 }
 
-.aboutthemembersgrid{
-	padding: 30px;
-}
-
-.aboutthemembersgrid img
+.aboutthemembersgrid img, .booking-info img
 {
     filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
     filter: gray; /* IE6-9 */
     -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
 }
-img:hover
+
+.aboutthemembersgrid img:hover , .booking-info img:hover
 {
     filter: none;
     -webkit-filter: none;
@@ -104,6 +100,52 @@ img:hover
 
 body {
    background-image: url("images/misc/SS.jpg");
+}
+
+
+
+
+//INDEX
+.intro ul li i{
+	color: @white;
+	font-size: 48px;
+}
+
+
+
+
+
+//ABOUT
+
+
+
+
+//MEMBERS
+.aboutthemembersgrid {
+	.photogrid img {
+		width: 140px;
+		margin: 10px;
+		cursor: pointer;
+	}
+	padding: 30px;
+}
+
+
+//GALLERY
+
+
+
+//BOOKING
+.booking-info ul li i{
+	color: @dark-grey;
+	font-size: 18px;
+}
+
+.booking-info{
+		.photogrid img {
+		width: 72px;
+		margin: 0 5px 5px 0;
+	}
 }
 
 

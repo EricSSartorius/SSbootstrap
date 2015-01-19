@@ -8,6 +8,5 @@
 		<img src="images/slides/SSjacket_tn.jpg" alt="SS Jacket">
 		<img src="images/slides/SSanni1_tn.jpg" alt="SS Anniverary 1">
 		<img src="images/slides/SSanni2_tn.jpg" alt="SS Anniversary 2">
-		
 	</div>
 </article><!-- gallery-->

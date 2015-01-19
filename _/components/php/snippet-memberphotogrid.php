@@ -6,7 +6,7 @@
 	<a href="members.php#Dane_S"><img data-toggle="tooltip" data-original-title="Dane S" src="images/members/Dane_S_tn.jpg" alt="Photo of Dane S"></a>
 	<a href="members.php#Donny_Yi"><img data-toggle="tooltip" data-original-title="Donny Yi" src="images/members/Donny_Yi_tn.jpg" alt="Photo of Donny Yi"></a>
 	<a href="members.php#Eric_Sartorius"><img data-toggle="tooltip" data-original-title="Eric Sartorius" src="images/members/Eric_Sartorius_tn.jpg" alt="Photo of Eric Sartorius"></a>
-	<a href="members.php#Hiski_Hamalainen"><img data-toggle="tooltip" data-original-title="Hiski_Hamalainen" src="images/members/Hiski_Hamalainen_tn.jpg" alt="Photo of Hiski Hamalainen"></a>
+	<a href="members.php#Hiski_Hamalainen"><img data-toggle="tooltip" data-original-title="Hiski Hamalainen" src="images/members/Hiski_Hamalainen_tn.jpg" alt="Photo of Hiski Hamalainen"></a>
 	<a href="members.php#Ho_Oshi"><img data-toggle="tooltip" data-original-title="Ho Oshi" src="images/members/Ho_Oshi_tn.jpg" alt="Photo of Ho Oshi"></a>
 	<a href="members.php#Jamal_Mixture"><img data-toggle="tooltip" data-original-title="Jamal Mixture" src="images/members/Jamal_Mixture_tn.jpg" alt="Photo of Jamal Mixture"></a>
 	<a href="members.php#Jayce_Harris"><img data-toggle="tooltip" data-original-title="Jayce Harris" src="images/members/Jayce_Harris_tn.jpg" alt="Photo of Jayce Harris"></a>

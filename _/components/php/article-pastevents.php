@@ -1,7 +1,7 @@
 <article class="past-events">
 	<h2>Past Events</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime dolorem possimus quam consequatur, dolor doloribus nam voluptatibus molestias suscipit facilis ab itaque sunt nobis harum laudantium porro dignissimos neque reprehenderit! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus illo cum voluptas, aliquam, dolorem obcaecati ipsum nemo magnam aut. Quidem quos in culpa, quam harum omnis nemo laborum aliquid voluptates.</p>
-	<p class="hidden-sm">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, consequuntur aspernatur non cupiditate in quidem maxime hic minima vitae quos maiores fuga atque reprehenderit obcaecati suscipit est unde nemo, eaque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis esse maxime veniam quod earum quaerat amet, repudiandae error. Voluptate natus reprehenderit, ipsum eligendi possimus illum saepe nihil ex animi soluta?</p>
+	<p>Check out some photos from out past events such as our first and second year anniversary parties!</p>
+	<a href="booking.php" class="btn btn-danger">Gallery</a></p>
 		<div class="modalphotos photogrid clearfix">
 			<img src="images/slides/SScrew1_tn.jpg" alt="SS Crew 1">
 			<img src="images/slides/SScrew2_tn.jpg" alt="SS Crew 2">
