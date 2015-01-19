@@ -7,9 +7,15 @@
 @very-light-grey: #9D9D9C;
 
 
+
+
 //UNIVERSAL
 p{
 	color: @white;
+	
+	font-size: 1.1em;
+	line-height: 1.4em;
+	padding: 0 2%;
 }
 
 h2{
@@ -19,6 +25,45 @@ h2{
 .btn-danger{
 	background-color: @light-grey;
 }
+
+
+
+//PHOTOS
+.photogrid img {
+	width: 140px;
+	margin: 10px;
+	cursor: pointer;
+
+	@media (max-width: 990px) {
+		width: 140px;
+	}
+}
+
+.memberinfo {
+	.photogrid img {
+		width: 72px;
+		margin: 0 5px 5px 0;
+		cursor: pointer;
+	}
+
+}
+
+.aboutthemembersgrid{
+	padding: 30px;
+}
+
+.aboutthemembersgrid img
+{
+    filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(1); /* Google Chrome & Safari 6+ */
+}
+img:hover
+{
+    filter: none;
+    -webkit-filter: none;
+}
+
 
 
 
@@ -58,7 +103,7 @@ h2{
 }
 
 body {
-
+   background-image: url("images/misc/SS.jpg");
 }
 
 
@@ -98,3 +143,6 @@ color: @light-grey;
 line-height: 17px;
 text-align: center;
 }
+
+
+
