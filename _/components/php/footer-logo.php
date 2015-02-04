@@ -4,7 +4,7 @@
 <!-- SVG BOT LOGO -->
 
 
-<svg class"bot-logo" width="100%" height="113px" viewBox="0 0 -192 113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg class"bot-logo" width="100%" height="113px" viewBox="0 0  113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-41.000000, -862.000000)">
             <g id="Footer" sketch:type="MSLayerGroup" transform="translate(0.000000, 798.000000)">

@@ -2,16 +2,17 @@
 	<footer class="row">
 		<section class="footer-container">
       <div class="content row">
-         <section class="main logo col col-lg-4">
+
+         <section class="main logo col col-lg-6">
         
         </section><!-- main -->
-        <section class="side1 col col-lg-4">
+        <section class="footer-side1 col col-lg-3">
           <?php include "_/components/php/footer-contact.php"; ?>
         </section><!-- side1 -->
-         <section class="side2 col col-lg-4">
+         <section class="footer-side2 col col-lg-3">
           <?php include "_/components/php/footer-connect.php"; ?>
         </section><!-- side2-->
-         <section class="main text-left col col-lg-12">
+         <section class="footer-logo1  col col-lg-12">
         <?php include "_/components/php/footer-logo.php"; ?> 
         </section><!-- main -->
       </div><!-- content -->
