@@ -1,34 +1,36 @@
-<article id="Lonny_Hancock" class="media">
-	<h2>Lonny</h2>
-	<img class="pull-left img-rounded" src="images/members/Lonny_Hancock_tn.jpg" alt="Photo of Lonny Hancock">
-	<div class="media-body">
-		<p>Real Name: Lonny Hancock</p>
-		<p>Birth Day: 18May1985</p>
-		<p>Gender: Male</p>
-		<p>Ethnicity: Japanese/white</p>
-		<p>Nationality: USA</p>
-		<p> </p>
-		<p>Height: 5'8"
-</p>
-		<p>Weight: 175lbs</p>
-		<p>Shirt: </p>
-		<p>Pants: </p>
-		<p>Shoes: </p>
-		<p> 
-		<p>Nickname / Stagename: Lontizzle/Lonewolf</p>
-		<p>Style: a lil of everything/vanilla bboy</p>
-		<p>Signature moves styles: spinning stuff style</p>
-		<p>Commercial Work:</p>
-		<p></p> 
-		<p>Video links: </p>
-	<section class="modalphotos photogrid">
-		<h3>Artwork</h3>
-		<img src="images/artwork/Barot_Bellingham_01_tn.jpg">
-		<img src="images/artwork/Barot_Bellingham_02_tn.jpg">
-		<img src="images/artwork/Barot_Bellingham_03_tn.jpg">
-	</section>
-	</div><!-- media body -->
-</article>
+
+    <div class="member-modal modal fade" id="Lonny_Hancock" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Lonny Hancock</h2>
+                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                            <img class="img-responsive" data-original-title="Lonny Hancock" src="images/members/Lonny_Hancock.jpg" alt="Photo of Lonny Hancock">
+                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                            <p>
+                                <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
+                            <ul class="list-inline">
+                                <li>Date: July 2014</li>
+                                <li>Client: Round Icons</li>
+                                <li>Category: Graphic Design</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
 
 

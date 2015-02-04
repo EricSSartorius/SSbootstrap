@@ -1,8 +1,21 @@
-<article id="Karl_Alba" class="media">
-	<h2>Dyzee</h2>
-	<img class="pull-left img-rounded" src="images/members/Karl_Alba_tn.jpg" alt="Photo of Karl Alba">
-	<div class="media-body">
-		<p>Real Name: Karl Olivier Alba</p>
+
+    <div class="member-modal modal fade" id="Karl_Alba" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Karl "Dyzee" Alba</h2>
+                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                            <img class="img-responsive" data-original-title="Karl Alba" src="images/members/Karl_Alba.jpg" alt="Photo of Karl Alba">
+                            <p>Real Name: Karl Olivier Alba</p>
 		<p>Birth Day: Sep. 29 1979</p>
 		<p>Gender: Male</p>
 		<p>Ethnicity: Asian</p>
@@ -38,14 +51,21 @@
 		<p>Link to Best Breakin photo:  </p>
 		<p>https://www.facebook.com/photo.php?fbid=10151465012027555&set=pb.508962554.-2207520000.1389336289.&type=3&theater</p>
 		<p>https://www.facebook.com/photo.php?fbid=10151091307862555&set=a.10150564977767555.379366.508962554&type=3&theater </p>
-	<section class="modalphotos photogrid">
-		<h3>Artwork</h3>
-		<img src="images/artwork/Barot_Bellingham_01_tn.jpg">
-		<img src="images/artwork/Barot_Bellingham_02_tn.jpg">
-		<img src="images/artwork/Barot_Bellingham_03_tn.jpg">
-	</section>
-	</div><!-- media body -->
-</article>
+                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                            <p>
+                                <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
+                            <ul class="list-inline">
+                                <li>Date: July 2014</li>
+                                <li>Client: Round Icons</li>
+                                <li>Category: Graphic Design</li>
+                            </ul>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 

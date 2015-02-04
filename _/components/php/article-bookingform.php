@@ -51,9 +51,9 @@
 				</section><!-- row -->
 	<p></p>
 				<section class="row">
-					<label class="col col-lg-4 control-label" for="message">Message:</label>
+					<label class="col col-lg-4 control-label" for="message">Message:<span class="required">*</span></label>
 					<div class="controls">
-					<textarea cols="50" rows="4" class= "col col-lg-8" id="message" name="message" placeholder="Your message here"></textarea>
+					<textarea cols="50" rows="4" class= "col col-lg-8" id="message" name="message" placeholder="Your message here" required></textarea>
 					</div><!-- controls -->
 				</section><!-- row -->
 				

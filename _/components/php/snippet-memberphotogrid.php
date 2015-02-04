@@ -28,36 +28,31 @@
 	<a href="#Tom_Stanford" class="member-link" data-toggle="modal"><img data-toggle="tooltip" data-original-title="Tom Stanford" src="images/members/Tom_Stanford_tn.jpg" alt="Photo of Tom Stanford"></a>
 </div>
 
-
- <!-- Portfolio Modal 1 -->
-    <div class="member-modal modal fade" id="Andrew_Kim" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Andrew Kim</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive" data-original-title="Andrew Kim" src="images/members/Andrew_Kim.jpg" alt="Photo of Andrew Kim">
-                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                            <p>
-                                <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
-                            <ul class="list-inline">
-                                <li>Date: July 2014</li>
-                                <li>Client: Round Icons</li>
-                                <li>Category: Graphic Design</li>
-                            </ul>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+			<?php include '_/components/php/snippet_member_Andrew_Kim.php'; ?>
+			<?php include '_/components/php/snippet_member_Austin_Vinas.php'; ?>
+			<?php include '_/components/php/snippet_member_Ben_Coz.php'; ?>
+			<?php include '_/components/php/snippet_member_Chris_Feria.php'; ?>
+			<?php include '_/components/php/snippet_member_Dane_S.php'; ?>
+			<?php include '_/components/php/snippet_member_Donny_Yi.php'; ?>
+			<?php include '_/components/php/snippet_member_Eric_Sartorius.php'; ?>
+			<?php include '_/components/php/snippet_member_Hiski_Hamalainen.php'; ?>
+			<?php include '_/components/php/snippet_member_Ho_Oshi.php'; ?>
+			<?php include '_/components/php/snippet_member_Jamal_Mixture.php'; ?>
+			<?php include '_/components/php/snippet_member_Jayce_Harris.php'; ?>
+			<?php include '_/components/php/snippet_member_Jeric_Quiliza.php'; ?>
+			<?php include '_/components/php/snippet_member_Jyrell_Barrientos.php'; ?>
+			<?php include '_/components/php/snippet_member_Karl_Alba.php'; ?>
+			<?php include '_/components/php/snippet_member_Larne_Pedro.php'; ?>
+			<?php include '_/components/php/snippet_member_Lee_Chesley.php'; ?>
+			<?php include '_/components/php/snippet_member_Leroy_Brown.php'; ?>
+			<?php include '_/components/php/snippet_member_Lima_Limon.php'; ?>
+			<?php include '_/components/php/snippet_member_Lonny_Hancock.php'; ?>
+			<?php include '_/components/php/snippet_member_Mad_Tek.php'; ?>
+			<?php include '_/components/php/snippet_member_Phil_Sequeira.php'; ?>
+			<?php include '_/components/php/snippet_member_Richard_Kim.php'; ?>
+			<?php include '_/components/php/snippet_member_Ryan_Edward.php'; ?>
+			<?php include '_/components/php/snippet_member_Sebastian_Thompson.php'; ?>
+			<?php include '_/components/php/snippet_member_Tich_Graphicxz.php'; ?>
+			<?php include '_/components/php/snippet_member_Toby_Richard.php'; ?>
+			<?php include '_/components/php/snippet_member_Tom_Stanford.php'; ?>
+ 
