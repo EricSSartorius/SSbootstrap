@@ -31,9 +31,9 @@
   </head>
   <body id="booking">
 
-    <div class="bg-white content row">
+    <div class="content row">
           <?php include "_/components/php/header.php"; ?>
-      <section class="container">
+      <section class="bg-white container">
         <section class="main col col-lg-8">
           <?php include "_/components/php/article-bookingform.php"; ?>
         </section><!-- main -->

@@ -1,10 +1,5 @@
-//MY COLORS
-@grey: 			  #E8E8E8;
-@black: 		  #000;
-@light-grey:      #696C6E;
-@white:			  #fff;
-@dark-grey:		  #2D2928;
-@very-light-grey: #9D9D9C;
+@import "variables.less";
+@import "mixins.less";
 
 
 
@@ -24,6 +19,7 @@ h2, h3{
 .btn-danger{
 	background-color: @light-grey;
 }
+
 
 
 
@@ -67,6 +63,10 @@ h2, h3{
 	background-color: @black;
 }
 
+
+
+
+//NAVBAR
 .top-nav{
 	text-align: right;
 }
@@ -77,25 +77,39 @@ h2, h3{
 }
 
 .navbar{
-	background-color: @black;
+	background-color: transparent;
 }
+
 
 
 
 
 //BODY
 
-.bg-light-gray {
+.bg-light-grey {
 	background-color: @light-grey;
+	 padding: 100px 0;
 }
 
 .bg-black {
 	background-color: @black;
+	 padding: 100px 0;
+}
+
+.bg-white {
+	background-color: @white;
+	 padding: 100px 0;
 }
 
 .bg-white p {
 	color: @dark-grey;
 }
+
+body {
+	//overflow-x: hidden;
+	
+}
+
 
 
 
@@ -112,7 +126,13 @@ h2, h3{
 
 
 //ABOUT
-
+.about2{
+	background-image: url('/images/misc/ss.jpg');
+    width:100%;
+    height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 
 
@@ -130,6 +150,9 @@ h2, h3{
 	color: @black;
 }
 
+
+
+
 //GALLERY
 
 
@@ -146,6 +169,8 @@ h2, h3{
 		margin: 0 5px 5px 0;
 	}
 }
+
+
 
 
 

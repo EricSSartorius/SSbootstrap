@@ -35,7 +35,7 @@
           <?php include "_/components/php/header.php"; ?>
           <img src="images/misc/SS-top.jpg" alt="Seoul Seekers Top">
 
-<section id="intro" class="bg-light-gray">
+<section id="intro" class="bg-light-grey">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">

@@ -35,7 +35,7 @@
       <div class="content row">
           <?php include "_/components/php/header.php"; ?>
 
-<section id="intro" class="bg-light-gray">
+<section id="intro" class="bg-light-grey">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
