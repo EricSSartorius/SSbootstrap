@@ -2,7 +2,7 @@
 	<h2>Booking</h2>
 	<p>The Seoul Seekers can be booked for performances, TV shows, and modeling gigs. For enquires please complete the form below.</p>
 	<p>(For individual booking please include name of member desired in the message box)</p>
-
+<br/>
 	<form class="registration form-horizontal" action="#">
 
 	  <fieldset id="personalinfo">

@@ -6,7 +6,6 @@
 //UNIVERSAL
 p{
 	color: @white;
-	
 	font-size: 1.1em;
 	line-height: 1.4em;
 	padding: 0 2%;
@@ -14,10 +13,29 @@ p{
 
 h2, h3{
 	color: @very-light-grey;
+	padding: 0 2%;
 }
 
 .btn-danger{
 	background-color: @light-grey;
+	margin: 0 2%;
+}
+
+.btn-primary{
+	background-color: @light-grey;
+	margin: 0 2%;
+}
+
+.main>article {
+	margin: 0 5%;
+}
+
+.sidebar>aside {
+	padding-right: 5%;
+
+	@media(max-width: 767px) {
+		padding-left: 5%;
+	}
 }
 
 
@@ -88,17 +106,35 @@ h2, h3{
 
 .bg-light-grey {
 	background-color: @light-grey;
-	 padding: 100px 0;
+	padding: 100px 0;
+	h2 {
+		font-size: 40px;
+		margin-top: 0;
+		margin-bottom: 15px;
+    }
+
 }
 
 .bg-black {
 	background-color: @black;
-	 padding: 100px 0;
+	padding: 100px 0;
+	h2 {
+		font-size: 40px;
+		margin-top: 0;
+		margin-bottom: 15px;
+    }
+
 }
 
 .bg-white {
 	background-color: @white;
-	 padding: 100px 0;
+	padding: 100px 0;
+	h2{
+		font-size: 40px;
+		margin-top: 0;
+		margin-bottom: 15px;
+    }
+
 }
 
 .bg-white p {
@@ -120,6 +156,13 @@ body {
 	color: @white;
 	font-size: 48px;
 }
+
+.intro-social>li {
+padding-left: 50px;
+padding-right: 50px;
+}
+
+
 
 
 
@@ -157,7 +200,16 @@ body {
 
 
 
+
+
 //BOOKING
+
+legend{
+	padding: 0 2%;
+	margin-bottom: 40px;
+	border-bottom: none;
+}
+
 .booking-info ul li i{
 	color: @dark-grey;
 	font-size: 18px;
@@ -170,6 +222,10 @@ body {
 	}
 }
 
+.row .row {
+margin-left: 0px;
+margin-right: 35px;
+}
 
 
 

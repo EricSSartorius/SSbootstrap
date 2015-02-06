@@ -39,7 +39,7 @@
 <section id="intro" class="bg-light-grey">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="main col-lg-12">
                   <?php include "_/components/php/article-aboutthemembers.php"; ?>
                 </div>
             </div>
@@ -51,7 +51,7 @@
 <section class="bg-white">
   <div class="container">
    <div class="main col col-lg-12">
-   <?php include "_/components/php/aside-booking.php"; ?>  
+   <?php include "_/components/php/article-booking.php"; ?>  
         </div><!-- main -->
         </div>
 </section>

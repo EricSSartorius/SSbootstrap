@@ -38,7 +38,7 @@
 <section id="intro" class="bg-light-grey">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="main col-lg-12">
                   <?php include "_/components/php/article-intro.php"; ?>
                 </div>
             </div>
@@ -48,8 +48,7 @@
 <section class="bg-black">
   <div class="container">
    <div class="main col col-lg-8">
-          
-          <img src="images/misc/SS.jpg" alt="Seoul Seekers Top">
+          <img src="images/misc/SS.jpg" alt="Seoul Seekers Jacket">
         </div><!-- main -->
         <div class="sidebar col col-lg-4">
           <?php include "_/components/php/aside-aboutthemembers.php"; ?>

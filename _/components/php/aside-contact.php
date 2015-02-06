@@ -1,4 +1,4 @@
-<aside class="booking-info">
+<aside class="booking-info hidden-sm">
 	
 
 	<h3>CONTACT</h3>
@@ -14,8 +14,9 @@
         <li><a href="#"><i class="fa fa-youtube"></i></a>
         </li>
     </ul>
-
-
+<br/>
+</aside>
+<aside class="booking-info">
 <h3>MEMBER REFERENCE</h3>
       <?php include "snippet-memberphotogrid.php"; ?>
 </aside>

@@ -38,7 +38,7 @@
 <section id="intro" class="bg-light-grey">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="main col-lg-12">
                   <?php include "_/components/php/article-about.php"; ?>
                 </div>
             </div>
@@ -48,7 +48,7 @@
 <section id="intro" class="bg-black about2">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="main col-lg-12 ">
                   <?php include "_/components/php/article-about2.php"; ?>
                 </div>
             </div>
