@@ -28,49 +28,42 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-  </head>
  
- <body id="about">
 
-      <div class="content row">
-          <?php include "_/components/php/header.php"; ?>
 
-<section id="intro" class="bg-light-grey">
-        <div class="container">
-            <div class="row">
-                <div class="main col-lg-12">
-                  <?php include "_/components/php/article-about.php"; ?>
-                </div>
-            </div>
-        </div>
-</section>             
 
-<section id="intro" class="bg-black about2">
-        <div class="container">
-            <div class="row">
-                <div class="main col-lg-12 ">
-                  <?php include "_/components/php/article-about2.php"; ?>
-                </div>
-            </div>
-        </div>
-</section>   
 
-<section class="bg-white">
-  <div class="container">
-   <div class="main col col-lg-8">
-   <?php include "_/components/php/article-about3.php"; ?>
-        </div><!-- main -->
-        <div class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-booking.php"; ?>         
-        </div><!-- sidebar -->
-        </div>
-</section>
 
-  
-          <?php include "_/components/php/footer.php"; ?>
+</head>
+  <body id="about">
+
+    <div class="content row">
+      <?php include "_/components/php/header.php"; ?>
+
+      <section class="container-fluid">
+        <section class="bg-light-grey main col col-lg-12">
+          <?php include "_/components/php/article-about.php"; ?>
+        </section><!-- main -->
+        <section class="bg-black about2 main col col-lg-12">
+          <?php include "_/components/php/article-about2.php"; ?>
+        </section><!-- main -->
+         <section >
+            <section class="bg-white main col col-lg-8">
+              <?php include "_/components/php/article-about3.php"; ?>
+            </section><!-- main -->
+            <section class="sidebar col col-lg-4">
+              <?php include "_/components/php/aside-booking.php"; ?>
+            </section><!-- sidebar -->
+            </section><!-- container -->
+    </div><!-- content -->
+      <?php include "_/components/php/footer.php"; ?>
+      </section><!-- container -->
+
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
-
 </html>
+
+
+ 
 

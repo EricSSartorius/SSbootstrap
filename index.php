@@ -28,48 +28,68 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-  </head>
+  
+
+
+
+</head>
   <body id="home">
 
-      <div class="content row">
+    <body>
+
           <?php include "_/components/php/header.php"; ?>
           <img src="images/misc/SS-top.jpg" alt="Seoul Seekers Top">
 
-<section id="intro" class="bg-light-grey">
+
+<!-- Services Section -->
+    <section class="bg-light-grey">
         <div class="container">
             <div class="row">
-                <div class="main col-lg-12">
-                  <?php include "_/components/php/article-intro.php"; ?>
+                <div class="main col col-lg-12">
+                    <?php include "_/components/php/article-intro.php"; ?>
                 </div>
             </div>
         </div>
-</section>             
+    </section>
 
-<section class="bg-black">
-  <div class="container">
-   <div class="main col col-lg-8">
-          <img src="images/misc/SS.jpg" alt="Seoul Seekers Jacket">
-        </div><!-- main -->
-        <div class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-aboutthemembers.php"; ?>
-        </div><!-- sidebar -->
+    <!-- Portfolio Grid Section -->
+    <section class="bg-black">
+        <div class="container">  
+            <div class="row">
+                <div class="main col col-lg-8 portfolio-item">
+                    <img src="images/misc/SS.jpg" alt="Seoul Seekers Jacket">
+                </div>
+                <div class="sidebar col col-lg-4 portfolio-item">
+                   <?php include "_/components/php/aside-aboutthemembers.php"; ?>
+                </div>   
+            </div>
         </div>
-</section>
+    </section>
 
-<section class="bg-white">
-  <div class="container">
-   <div class="main col col-lg-8">
-   <?php include "_/components/php/article-pastevents.php"; ?>
-        </div><!-- main -->
-        <div class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-booking.php"; ?>         
-        </div><!-- sidebar -->
+ 
+    <!-- Team Section -->
+    <section class="bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="main col col-lg-8">
+                    <?php include "_/components/php/article-pastevents.php"; ?>
+                </div>
+                <div class="sidebar col col-lg-4">
+                    <?php include "_/components/php/aside-booking.php"; ?>
+                </div>
+            </div>
         </div>
-</section>
+    </section>
 
   
+
           <?php include "_/components/php/footer.php"; ?>
+      
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
 </html>
+
+
+
+

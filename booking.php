@@ -28,22 +28,27 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     
-  </head>
+
+
+
+ </head>
   <body id="booking">
 
     <div class="content row">
-          <?php include "_/components/php/header.php"; ?>
+      <?php include "_/components/php/header.php"; ?>
+
       <section class="bg-white container">
         <section class="main col col-lg-8">
           <?php include "_/components/php/article-bookingform.php"; ?>
         </section><!-- main -->
         <section class="sidebar col col-lg-4">
           <?php include "_/components/php/aside-contact.php"; ?>
-      </section><!-- sidebar -->
+        </section><!-- sidebar -->
+     
     </div><!-- content -->
-    </section><!-- container -->
-          <?php include "_/components/php/footer.php"; ?>
-
+      <?php include "_/components/php/footer.php"; ?>
+     
+ </section><!-- container -->
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>

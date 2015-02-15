@@ -30,38 +30,27 @@
     
 
 
-</head>
+  </head>
   <body id="gallery">
 
-      <div class="content row">
-          <?php include "_/components/php/header.php"; ?>
-        
+    <div class="content row">
+      <?php include "_/components/php/header.php"; ?>
 
-<section id="intro" class="bg-light-grey">
-        <div class="container">
-            <div class="row">
-                <div class="main col-lg-12">
-                   <?php include "_/components/php/article-gallery.php"; ?>
-                </div>
-            </div>
-        </div>
-</section>             
+      <section class="container-fluid">
+        <section class="bg-light-grey main col col-lg-12">
+          <?php include "_/components/php/article-gallery.php"; ?>
+        </section><!-- main -->
+        <section class="bg-white main col col-lg-12">
+          <?php include "_/components/php/article-gallery2.php"; ?>
+        </section><!-- main -->
+    </div><!-- content -->
+      <?php include "_/components/php/footer.php"; ?>
+      </section><!-- container -->
 
-
-
-<section class="bg-white">
-  <div class="container">
-   <div class="main col col-lg-12">
-    <?php include "_/components/php/article-gallery2.php"; ?> 
-        </div><!-- main -->
-        </div>
-</section>
-
-          <?php include "_/components/php/footer.php"; ?>
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
-  </html>
+</html>
 
 
  
