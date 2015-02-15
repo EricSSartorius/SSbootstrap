@@ -30,28 +30,38 @@
     
 
 
-
- </head>
+</head>
   <body id="booking">
 
-    <div class="content row">
-      <?php include "_/components/php/header.php"; ?>
+    <body>
 
-      <section class="bg-white container">
-        <section class="main col col-lg-8">
-          <?php include "_/components/php/article-bookingform.php"; ?>
-        </section><!-- main -->
-        <section class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-contact.php"; ?>
-        </section><!-- sidebar -->
-     
-    </div><!-- content -->
-      <?php include "_/components/php/footer.php"; ?>
-     
- </section><!-- container -->
+          <?php include "_/components/php/header.php"; ?>
+         
+
+
+
+    <!-- White -->
+    <section class="bg-white">
+        <div class="container">
+            <div class="row">
+                <div class="main col col-lg-8">
+                    <?php include "_/components/php/article-bookingform.php"; ?>
+                </div>
+                <div class="sidebar col col-lg-4">
+                    <?php include "_/components/php/aside-contact.php"; ?>
+                </div>
+            </div>
+        </div>
+    </section>
+
+  
+
+          <?php include "_/components/php/footer.php"; ?>
+      
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
 </html>
+
 
 
