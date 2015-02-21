@@ -58,7 +58,7 @@
 				</section><!-- row -->
 				
 	  </fieldset>
-	  <button class="btn" type="submit">Submit</button>
+	  <button class="btn btn-danger" type="submit">Submit</button>
 
 </form>
 </article>

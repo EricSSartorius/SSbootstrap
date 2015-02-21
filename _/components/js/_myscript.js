@@ -1,20 +1,19 @@
 $(function() {
 
 	//activate schedule tabs
-	var hash = window.location.hash;
-	hash && $('ul.nav a[href="' + hash + '"]').tab('show');
+	//var hash = window.location.hash;
+	//hash && $('ul.nav a[href="' + hash + '"]').tab('show');
 
 	//controlling opening of accordions
-	$('#monday.accordion-body').addClass('in');
-	$('#artists #tuesday.accordion-body').addClass('in');
-	$('#artists #wednesday.accordion-body').addClass('in');
-	$('#artists #thursday.accordion-body').addClass('in');
-	$('#artists #friday.accordion-body').addClass('in');
+	//$('#monday.accordion-body').addClass('in');
+	//$('#artists #tuesday.accordion-body').addClass('in');
+	//$('#artists #wednesday.accordion-body').addClass('in');
+	//$('#artists #thursday.accordion-body').addClass('in');
+	//$('#artists #friday.accordion-body').addClass('in');
 
 	//add bootstrap classes to photos
 	$('.aboutthemembers img').addClass('img-circle');
-	$('aside.photosfromlastyear img').addClass('img-thumbnail');
-	$('.memberinfo .photogrid img').addClass('img-circle');
+	//$('.memberinfo .photogrid img').addClass('img-circle');
 
 
 	//highlight the current nav
@@ -27,11 +26,11 @@ $(function() {
 
 
 	//make menus drop automatically
-	$('ul.nav li.dropdown').hover(function() {
-		$('.dropdown-menu', this).fadeIn();
-	}, function() {
-		$('.dropdown-menu', this).fadeOut('fast');
-	});//hover
+	//$('ul.nav li.dropdown').hover(function() {
+	//	$('.dropdown-menu', this).fadeIn();
+	//}, function() {
+	//	$('.dropdown-menu', this).fadeOut('fast');
+	//});//hover
 
 	//show tooltips
 	$("[data-toggle='tooltip']").tooltip({ animation: true});

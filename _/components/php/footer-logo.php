@@ -8,7 +8,7 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-41.000000, -862.000000)">
             <g id="Footer" sketch:type="MSLayerGroup" transform="translate(0.000000, 798.000000)">
-                <rect id="Rectangle-1" fill="#2D2928" sketch:type="MSShapeGroup" x="0" y="0" width="1322" height="194"></rect>
+                <rect id="Rectangle-1" fill="#2D2928" sketch:type="MSShapeGroup" x="0" y="0" width="100%" height="194"></rect>
                 <g id="Bot-Logo" transform="translate(41.000000, 64.000000)" sketch:type="MSShapeGroup">
 <path d="M4.5,77 L1277.5,77" id="Line" stroke="#9D9D9C" stroke-width="10" stroke-linecap="square"></path>
 

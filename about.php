@@ -33,8 +33,6 @@
  </head>
   <body id="about">
 
-    <body>
-
           <?php include "_/components/php/header.php"; ?>
          
 
@@ -51,7 +49,7 @@
     </section>
 
     <!-- Black -->
- <section class="bg-black about2">
+ <section class="bg-black" id="about2">
         <div class="container">
             <div class="row">
                 <div class="main col col-lg-12">
@@ -79,7 +77,7 @@
 
           <?php include "_/components/php/footer.php"; ?>
       
-    <script src="_/js/bootstrap.js"></script>
+    <script src="_/js/bootstrap.min.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
 </html>

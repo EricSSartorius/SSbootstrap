@@ -36,8 +36,6 @@
  </head>
   <body id="gallery">
 
-    <body>
-
           <?php include "_/components/php/header.php"; ?>
    
 
@@ -71,7 +69,7 @@
 
           <?php include "_/components/php/footer.php"; ?>
       
-    <script src="_/js/bootstrap.js"></script>
+    <script src="_/js/bootstrap.min.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
 </html>

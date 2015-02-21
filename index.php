@@ -35,13 +35,11 @@
 </head>
   <body id="home">
 
-    <body>
-
           <?php include "_/components/php/header.php"; ?>
-          <img src="images/misc/SS-top.jpg" alt="Seoul Seekers Top">
+          <img src="images/misc/SS-top.jpg" class="img-responsive" alt="Seoul Seekers Top">
 
 
-<!-- Services Section -->
+<!-- Grey -->
     <section class="bg-light-grey">
         <div class="container">
             <div class="row">
@@ -52,7 +50,7 @@
         </div>
     </section>
 
-    <!-- Portfolio Grid Section -->
+    <!-- Black -->
     <section class="bg-black">
         <div class="container">  
             <div class="row">
@@ -67,7 +65,7 @@
     </section>
 
  
-    <!-- Team Section -->
+    <!-- White -->
     <section class="bg-white">
         <div class="container">
             <div class="row">
@@ -85,7 +83,7 @@
 
           <?php include "_/components/php/footer.php"; ?>
       
-    <script src="_/js/bootstrap.js"></script>
+    <script src="_/js/bootstrap.min.js"></script>
     <script src="_/js/myscript.js"></script>
   </body>
 </html>
